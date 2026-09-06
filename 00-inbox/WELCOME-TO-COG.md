@@ -31,7 +31,7 @@ As a **Business Development Executive**, these skills are ordered by relevance f
 
 ## Your Integrations
 
-**Active**: Zoho CRM, Microsoft 365, Slack, Massive Market Data, Minutes (capture/transcription only), Mnemoverse, Apify, vault-health-mcp
+**Active**: Zoho CRM, Microsoft 365 (via the account-level connector), Slack, Massive Market Data, Minutes (capture/transcription only), Mnemoverse, Apify
 **Manual/on-demand**: Seamless.ai, Apify company-website-intelligence actor
 **Disabled**: GitHub, Linear, PostHog, Notion, Jira, Fireflies, ElevenLabs
 

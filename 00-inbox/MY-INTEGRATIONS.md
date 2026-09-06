@@ -10,13 +10,12 @@ tags: ["#integrations", "#config", "#cog"]
 
 ## Active
 - **Zoho CRM**: System of record for pipeline. Queried live for account and deal status, never cached in vault files.
-- **Microsoft 365**: Email and calendar history for contact research, auto-capture, and meeting prep.
+- **Microsoft 365**: Email and calendar history for contact research, auto-capture, and meeting prep. Provided by the account-level Microsoft 365 connector (confirmed working via a direct call), not a project-scoped registration in this vault. There is nothing to configure here for it to work.
 - **Slack**: Team coordination and recurring intelligence delivery.
 - **Massive Market Data**: Public-company news and SEC filings for account-level economic context.
 - **Minutes**: Meeting capture and transcription only. Its own person-profile and relationship-map tools are never invoked. That job belongs to people-CRM.
 - **Mnemoverse**: Cross-tool memory.
 - **Apify**: Standing connector for private-company press-release monitoring and hiring-intent signals.
-- **vault-health-mcp**: Integrity checking, confirm-before-repair.
 
 ## Manual / On-Demand (not a standing connector)
 - **Seamless.ai**: Pitch Intelligence, used as a manual research input when the user supplies it, never fetched automatically.

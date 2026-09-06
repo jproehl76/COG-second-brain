@@ -32,7 +32,6 @@ aliases: [bd, business development, bd exec, sales executive, account executive,
 | minutes | Meeting capture and transcription only. Its own person-profile and relationship-map tools are never invoked; that's people-CRM's job. |
 | mnemoverse | Cross-tool memory. |
 | apify | Private-company press-release monitoring and hiring-intent signals (standing connector); a separate company-website-intelligence actor is run manually, not as a standing connector. |
-| vault-health-mcp | Integrity checking with confirm-before-repair. |
 | seamless.ai | Pitch Intelligence: manual/on-demand research input, not a standing connector. |
 
 ## Suggested Agent Mode
