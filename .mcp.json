@@ -10,6 +10,10 @@
       "env": {
         "MNEMOVERSE_API_KEY": "${MNEMOVERSE_API_KEY}"
       }
+    },
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com"
     }
   }
 }
